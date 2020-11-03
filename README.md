@@ -15,7 +15,7 @@ Inspiring acoustic by https://www.ashamaluevmusic.com/.
 ## Graphics
 
 ![s1](./Assets/Screens/Game.png)
-![s1](./Assets/Screens/Game3.png)
+![s2](./Assets/Screens/Game3.png)
 	
 ### Technologies
 Unity 2019.04.01f1
